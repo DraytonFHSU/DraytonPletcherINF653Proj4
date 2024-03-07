@@ -1,0 +1,7 @@
+{
+"php":{
+    "prefix": "ptag",
+    "body": ["<?php", "$0", "?>"],
+    "description": "php tag"
+}
+}
